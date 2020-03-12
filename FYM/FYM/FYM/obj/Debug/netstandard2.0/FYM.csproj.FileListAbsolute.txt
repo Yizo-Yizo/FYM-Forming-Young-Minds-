@@ -1,0 +1,7 @@
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\bin\Debug\netstandard2.0\FYM.deps.json
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\bin\Debug\netstandard2.0\FYM.dll
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\obj\Debug\netstandard2.0\FYM.csprojAssemblyReference.cache
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\obj\Debug\netstandard2.0\FYM.AssemblyInfoInputs.cache
+C:\Xamarin\FYM-Forming-Young-Minds-\FYM\FYM\FYM\obj\Debug\netstandard2.0\FYM.AssemblyInfo.cs
